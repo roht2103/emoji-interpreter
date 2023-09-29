@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  height: 6vh;
+  width: 90vh;
+  font-size: 4rem;
+  border-radius: 1rem;
+  box-shadow: 0 0 2rem;
+}
+
+.btn {
+  font-size: 20px;
+  color: white;
+  background-color: yellowgreen;
+  border-radius: 0.5rem;
+}
+
+input {
+  margin-top: 2rem;
+  text-align: center;
+  padding: 1rem;
+  width: 80%;
+  font-size: 30px;
+}
+span {
+  padding: 1rem;
+}
+
+.emojiList {
+  /* border:1px solid; */
+  padding: 0rem 5rem;
+}
